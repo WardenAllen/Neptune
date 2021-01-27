@@ -1,4 +1,6 @@
 
+# Neptune is go tcp/http server.
+
 cd /home/down
 wget https://dl.google.com/go/go1.15.linux-amd64.tar.gz
 rm -rf /usr/local/go
