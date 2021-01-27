@@ -1,0 +1,13 @@
+[CDKeyAward]
+[[CDKeyAward.Award]]
+ID = 10001
+Channel = 1
+Type = 2
+Award = "1002;300,100001;5"
+
+[[CDKeyAward.Award]]
+ID = 10002
+Channel = 1
+Type = 1
+Award = "1002;300,110028;1,1001;50000"
+

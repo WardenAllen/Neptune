@@ -1,0 +1,16 @@
+
+[Mysql]
+Host = "0.0.0.0"
+Port = "3306"
+UserName = "root"
+Password = "123456@Ab"
+DBName = "global"
+
+[Server]
+HttpHost = "0.0.0.0:9600"
+TcpHost = "0.0.0.0:9601"
+
+[NASDK]
+AppID = "0re9dw1wglwhjixk"
+SecretKey = "e94d9b239cbbe17329fc402606a1da86"
+

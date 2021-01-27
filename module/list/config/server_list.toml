@@ -1,0 +1,99 @@
+[ServerList]
+[[ServerList.List]]
+Channel = 1
+ServerID = 4325377
+ServerType = 1
+IsTest = 0
+TimeZone = 8
+Version = "0.8"
+Addr = "192.168.1.24:58601"
+Name = "内网"
+Status = 1
+CreateTime = 1601481600
+StartTime = 1601481600
+CloseHint = "服务器暂未开启，请查看游戏公告了解详情。"
+
+[[ServerList.List]]
+Channel = 1
+ServerID = 4325378
+ServerType = 1
+IsTest = 0
+TimeZone = 8
+Version = "0.7"
+Addr = "121.196.18.169:58601"
+Name = "体验服"
+Status = 1
+CreateTime = 1601568000
+StartTime = 1601568000
+CloseHint = "服务器暂未开启，请查看游戏公告了解详情。"
+
+[[ServerList.List]]
+Channel = 1
+ServerID = 4325379
+ServerType = 1
+IsTest = 0
+TimeZone = 8
+Version = "0.8"
+Addr = "47.114.174.160:58601"
+Name = "研发服"
+Status = 1
+CreateTime = 1601654400
+StartTime = 1601654400
+CloseHint = "服务器暂未开启，请查看游戏公告了解详情。"
+
+[[ServerList.List]]
+Channel = 1
+ServerID = 4325380
+ServerType = 1
+IsTest = 0
+TimeZone = 8
+Version = "0.7"
+Addr = "124.71.113.173:58601"
+Name = "版号服"
+Status = 1
+CreateTime = 1601740800
+StartTime = 1601740800
+CloseHint = "服务器暂未开启，请查看游戏公告了解详情。"
+
+[[ServerList.List]]
+Channel = 1
+ServerID = 4325381
+ServerType = 1
+IsTest = 0
+TimeZone = 8
+Version = "0.8"
+Addr = "122.112.252.101:58601"
+Name = "欧美测试服"
+Status = 1
+CreateTime = 1601827200
+StartTime = 1601827200
+CloseHint = "服务器暂未开启，请查看游戏公告了解详情。"
+
+[[ServerList.List]]
+Channel = 1
+ServerID = 8519681
+ServerType = 1
+IsTest = 1
+TimeZone = -8
+Version = "0.9"
+Addr = "49.51.93.123:58601"
+Name = "欧美提审服"
+Status = 1
+CreateTime = 1601913600
+StartTime = 1601913600
+CloseHint = "服务器暂未开启，请查看游戏公告了解详情。"
+
+[[ServerList.List]]
+Channel = 1
+ServerID = 8519682
+ServerType = 1
+IsTest = 0
+TimeZone = -8
+Version = "0.8"
+Addr = "49.51.94.168:58601"
+Name = "欧美正式服"
+Status = 1
+CreateTime = 1602000000
+StartTime = 1602000000
+CloseHint = "服务器暂未开启，请查看游戏公告了解详情。"
+

@@ -1,0 +1,18 @@
+
+[Mysql]
+Host = "0.0.0.0"
+Port = "3306"
+UserName = "root"
+Password = "123456@Ab"
+DBName = "global"
+
+[Server]
+HttpHost = "0.0.0.0:9700"
+TcpHost = "0.0.0.0:9701"
+
+[TapDB]
+AppID = ""
+OnlineURL = "https://se.tapdb.net/tapdb/online"
+PayURL = "https://e.tapdb.net/event"
+
+

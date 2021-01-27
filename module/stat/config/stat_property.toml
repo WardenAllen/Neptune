@@ -1,0 +1,127 @@
+[StatPropertyList]
+[[StatPropertyList.List]]
+ID = 1000
+Name = "MAIN_LEVEL"
+Type = 1
+Unique = 0
+
+[[StatPropertyList.List]]
+ID = 1001
+Name = "HERO_CP"
+Type = 1
+Unique = 0
+
+[[StatPropertyList.List]]
+ID = 1002
+Name = "FRIEND_NUM"
+Type = 1
+Unique = 0
+
+[[StatPropertyList.List]]
+ID = 1003
+Name = "GOLD"
+Type = 1
+Unique = 0
+
+[[StatPropertyList.List]]
+ID = 1004
+Name = "DIAMOND"
+Type = 1
+Unique = 0
+
+[[StatPropertyList.List]]
+ID = 1005
+Name = "ROLE_LEVEL"
+Type = 1
+Unique = 0
+
+[[StatPropertyList.List]]
+ID = 1006
+Name = "ITEM_LIST"
+Type = 6
+Unique = 0
+
+[[StatPropertyList.List]]
+ID = 1007
+Name = "PAY_AMOUNT"
+Type = 7
+Unique = 0
+
+[[StatPropertyList.List]]
+ID = 1008
+Name = "LOGIN_DAYS"
+Type = 1
+Unique = 0
+
+[[StatPropertyList.List]]
+ID = 1009
+Name = "ROLE_CREATE_TIME"
+Type = 4
+Unique = 1
+
+[[StatPropertyList.List]]
+ID = 1010
+Name = "ACCOUNT_CREATE_TIME"
+Type = 4
+Unique = 1
+
+[[StatPropertyList.List]]
+ID = 1011
+Name = "FIRST_CHARGE_TIME"
+Type = 4
+Unique = 1
+
+[[StatPropertyList.List]]
+ID = 1012
+Name = "LAST_LOGIN_TIME"
+Type = 4
+Unique = 0
+
+[[StatPropertyList.List]]
+ID = 1013
+Name = "LAST_CHARGE_TIME"
+Type = 4
+Unique = 0
+
+[[StatPropertyList.List]]
+ID = 1014
+Name = "PLATFORM"
+Type = 3
+Unique = 1
+
+[[StatPropertyList.List]]
+ID = 1015
+Name = "CHANNEL_ID"
+Type = 1
+Unique = 1
+
+[[StatPropertyList.List]]
+ID = 1016
+Name = "FIRST_CHARGE_AMOUNT"
+Type = 7
+Unique = 1
+
+[[StatPropertyList.List]]
+ID = 1017
+Name = "SERVER_ID"
+Type = 1
+Unique = 1
+
+[[StatPropertyList.List]]
+ID = 1018
+Name = "REGISTER_IP"
+Type = 5
+Unique = 1
+
+[[StatPropertyList.List]]
+ID = 1019
+Name = "USER_ID"
+Type = 1
+Unique = 1
+
+[[StatPropertyList.List]]
+ID = 1020
+Name = "ROLE_NAME"
+Type = 3
+Unique = 0
+

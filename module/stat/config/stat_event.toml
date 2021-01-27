@@ -1,0 +1,176 @@
+[StatEventList]
+[[StatEventList.List]]
+ID = 1
+Name = "CREATE_ACCOUNT"
+IntList = "_TS_CreateAccountTime"
+FloatList = ""
+StrList = "SdkAccount"
+
+[[StatEventList.List]]
+ID = 2
+Name = "CREATE_ROLE"
+IntList = "ServerID,Icon,_TS_CreateRoleTime"
+FloatList = ""
+StrList = "RoleName,Channel"
+
+[[StatEventList.List]]
+ID = 3
+Name = "LOGIN"
+IntList = "ServerID"
+FloatList = ""
+StrList = ""
+
+[[StatEventList.List]]
+ID = 4
+Name = "LOGOUT"
+IntList = "ServerID"
+FloatList = ""
+StrList = ""
+
+[[StatEventList.List]]
+ID = 100
+Name = "GUIDE_FINISH"
+IntList = "GuideID"
+FloatList = ""
+StrList = ""
+
+[[StatEventList.List]]
+ID = 101
+Name = "LEVEL_UP"
+IntList = "Level"
+FloatList = ""
+StrList = ""
+
+[[StatEventList.List]]
+ID = 102
+Name = "MAIN_LEVEL_START_BATTLE"
+IntList = "MainLevel"
+FloatList = ""
+StrList = ""
+
+[[StatEventList.List]]
+ID = 103
+Name = "MAIN_LEVEL_FINISH_BATTLE"
+IntList = "MainLevel"
+FloatList = ""
+StrList = ""
+
+[[StatEventList.List]]
+ID = 200
+Name = "GET_ITEM"
+IntList = "ItemID,ItemNum"
+FloatList = ""
+StrList = ""
+
+[[StatEventList.List]]
+ID = 201
+Name = "USE_ITEM"
+IntList = "ItemID,ItemNum"
+FloatList = ""
+StrList = ""
+
+[[StatEventList.List]]
+ID = 202
+Name = "GET_GOLD"
+IntList = "Gold"
+FloatList = ""
+StrList = ""
+
+[[StatEventList.List]]
+ID = 203
+Name = "USE_GOLD"
+IntList = "Gold"
+FloatList = ""
+StrList = ""
+
+[[StatEventList.List]]
+ID = 204
+Name = "GET_DIAMOND"
+IntList = "Diamond"
+FloatList = ""
+StrList = ""
+
+[[StatEventList.List]]
+ID = 205
+Name = "USE_DIAMOND"
+IntList = "Diamond"
+FloatList = ""
+StrList = ""
+
+[[StatEventList.List]]
+ID = 206
+Name = "GET_CURRENCY"
+IntList = "Type,Num"
+FloatList = ""
+StrList = ""
+
+[[StatEventList.List]]
+ID = 207
+Name = "USE_CURRENCY"
+IntList = "Type,Num"
+FloatList = ""
+StrList = ""
+
+[[StatEventList.List]]
+ID = 300
+Name = "CREATE_GUILD"
+IntList = "GuildID,Icon,AutoAccept,MinLevel"
+FloatList = ""
+StrList = "GuildName"
+
+[[StatEventList.List]]
+ID = 301
+Name = "JOIN_GUILD"
+IntList = "GuildID,UserID"
+FloatList = ""
+StrList = ""
+
+[[StatEventList.List]]
+ID = 302
+Name = "QUIT_GUILD"
+IntList = "GuildID,UserID"
+FloatList = ""
+StrList = ""
+
+[[StatEventList.List]]
+ID = 400
+Name = "CREATE_ORDER"
+IntList = "PayID,PurchaseNum"
+FloatList = ""
+StrList = "OrderID"
+
+[[StatEventList.List]]
+ID = 401
+Name = "FINISH_ORDER"
+IntList = "PayID,PurchaseNum,_AMT_PayAmount,_TS_FinishTime"
+FloatList = ""
+StrList = "OrderID,SDKOrderID,GoodsName"
+
+[[StatEventList.List]]
+ID = 500
+Name = "GET_WEAPON"
+IntList = "WeaponID,Rare"
+FloatList = ""
+StrList = ""
+
+[[StatEventList.List]]
+ID = 501
+Name = "WEAPON_STAR_UP"
+IntList = "WeaponID,OldStar,NewStar"
+FloatList = ""
+StrList = "_ARY_CostItemList"
+
+[[StatEventList.List]]
+ID = 502
+Name = "WEAPON_RANK_UP"
+IntList = "OldWeaponID,NewWeaponID,OldRare,NewRare"
+FloatList = ""
+StrList = "_ARY_CostItemList"
+
+[[StatEventList.List]]
+ID = 600
+Name = "OPEN_WEAPON_CHEST"
+IntList = ""
+FloatList = ""
+StrList = "ChestType,CostItem,_ARY_Rewards"
+
